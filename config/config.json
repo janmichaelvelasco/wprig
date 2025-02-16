@@ -1,7 +1,7 @@
 {
   "theme": {
     "PHPNamespace": "WP_Rig\\WP_Rig",
-    "slug": "wp-rig-test",
+    "slug": "wp-rig-wptheme",
     "name": "WP Rig Test",
     "theme_uri": "https://github.com/wprig/wprig/",
     "author": "The WP Rig Contributors",
